@@ -1,0 +1,1 @@
+The Simple Stopwatch project is a web-based application designed to measure elapsed time accurately. It utilizes the fundamental technologies of web development: HTML for structure, CSS for styling, and JavaScript for functionality. The stopwatch allows users to start, stop, and reset the timer with intuitive controls, providing a seamless experience for time tracking.
